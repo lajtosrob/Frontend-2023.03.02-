@@ -1,0 +1,7 @@
+body {
+    background-color: chartreuse;
+}
+.card {
+    float: left;
+    margin: 10px;
+}
